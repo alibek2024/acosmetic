@@ -1,0 +1,187 @@
+* {
+  font-family: "Red Hat Display", sans-serif;
+}
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.navcentre {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+.duda {
+  text-decoration: underline;
+}
+.logos {
+  display: flex;
+  gap: 20px;
+}
+.qism2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 60px;
+  background-color: #f9f6f5;
+}
+.cosmetic1 {
+  width: 696px;
+  height: 509px;
+}
+.get {
+  font-size: 56px;
+  font-weight: normal;
+  line-height: 70px;
+}
+.lorem1 {
+  width: 600px;
+  font-size: 20px;
+  line-height: 32px;
+}
+.search {
+  width: 326px;
+  height: 48px;
+  margin-top: 30px;
+}
+.shopnow:hover {
+  background-color: #261e1c;
+}
+.shopnow {
+  width: Hug (148px) px;
+  height: Hug (56px) px;
+  top: 582px;
+  left: 100px;
+  padding: 16px 32px 16px 32px;
+  gap: 10px;
+  opacity: 0px;
+  background-color: #402f2c;
+  color: white;
+  display: block;
+  margin-top: 50px;
+}
+.qism2yozuv {
+  margin-left: 50px;
+}
+.logotiplar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 30px;
+  margin-top: 40px;
+}
+.google {
+  margin-bottom: 35px;
+}
+.fa-brands {
+  margin-bottom: px;
+}
+.qism3yozuv{
+	margin-left: 70px;
+}
+
+.ourpopularproduct {
+  font-size: 56px;
+  font-weight: 500;
+  line-height: 70px;
+  text-align: left;
+}
+.lorem2 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  display: block;
+  width: 714px;
+  color: gray;
+}
+.discover {
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 30px;
+  text-align: left;
+  display: flex;
+  justify-content: end;
+  margin-bottom: 90px;
+  position: absolute;
+  top: 950px;
+  left: 1150px;
+  text-decoration: underline;
+}
+.qism3rasm {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 60px;
+}
+.pamadA {
+  width: 600px;
+  height: 484px;
+  top: 1345px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+}
+.ot {
+  width: 600px;
+  height: 484px;
+  top: 1345px;
+  left: 100px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.cosmetic {
+  font-size: 40px;
+  font-weight: 500;
+  line-height: 60px;
+  text-align: left;
+}
+.lorem3 {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  width: 516px;
+}
+.buynow {
+  width: Hug (137px) px;
+  height: Hug (56px) px;
+  top: 2069px;
+  left: 132px;
+  padding: 16px 32px 16px 32px;
+  gap: 10px;
+  opacity: 0px;
+  background: #402f2c;
+  color: white;
+  font-size: larger;
+}
+.addtocard {
+  width: Hug (162px) px;
+  height: Hug (56px) px;
+  top: 2069px;
+  left: 293px;
+  padding: 16px 32px 16px 32px;
+  gap: 10px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  background-color: white;
+  font-size: larger;
+  margin-left: 20px;
+}
+.cost {
+  position: absolute;
+  top: 1830px;
+  left: 600px;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: right;
+}
+.cccc{
+position: absolute;
+  top: 1830px;
+  left: 1330px;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 32px;
+  text-align: right;
+}
